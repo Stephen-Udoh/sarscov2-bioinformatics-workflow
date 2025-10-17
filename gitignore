@@ -1,0 +1,7 @@
+*.bam
+*.fastq
+*.fasta
+*.vcf
+*.log
+data/
+results/
